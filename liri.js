@@ -9,7 +9,7 @@ var axios = require("axios");
 
 var fs = require("fs");
 
-var value = process.argv[5];
+
 
 var spotify = new Spotify ({
     "id": "2b255bc033d3434799579f225e716ed7",
